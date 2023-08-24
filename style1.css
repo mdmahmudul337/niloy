@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-content{
+    align-items: center;
+    display: flex;
+}
+.sub-content1{
+    /* height: 80px;
+    width: 80px; */
+    float: left;
+    
+}
+.sub-content1 img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.sub-content2{
+    float: left;
+    /* padding: 30px 20px; */
+    
+}
+.sub-content2 span{
+    font-weight: 700;
+}
+.sub-content2 p{
+   
+}
